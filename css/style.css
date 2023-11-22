@@ -1,0 +1,298 @@
+:root{
+    --hover:#CDA274;
+    --main-accent:#292F36;
+    --main-text:#4D5053;
+    --previews: #F4F0EC;
+}
+body {
+    color:var(--main-accent);
+    font-family:'Jost', sans-serif;
+   line-height: 1.5px ;
+   font-style: normal;
+   font-size: 22px;
+   font-weight: 400;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.nav-list-link {
+    color:var(--main-text);
+font-size: 19px;
+line-height: 1.58px; 
+letter-spacing: 0.4px;
+}
+.nav-list-link:hover {
+color:var(--hover);
+
+}
+.section-hero-title {
+    color: #292F36;
+font-family: "DM Serif Display",serif;
+font-size: 80px;
+line-height: 1.2px; 
+letter-spacing: 0.22px;
+}
+.section-hero-text {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.section-hero-btn{
+    color: #FFF;
+font-size: 18px;
+font-style: normal;
+background-color:var(--main-accent);
+line-height: 1.5px; 
+letter-spacing: 0.72px;
+width: 207px;
+height: 71px;
+}
+.benefits-title {
+    color:var(--main-accent);
+text-align: center;
+font-family: "DM Serif Display",serif;
+font-size: 25px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+
+}
+.benefits-description {
+    color:var(--main-accent);
+text-align: center;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.benefits-link {
+    color:var(--main-text);
+text-align: center;
+font-size: 18px;
+line-height: 1.5px; 
+letter-spacing: 0.36px;
+}
+
+.Desighn-challeng-title {
+    color:var(--main-accent);
+font-family: "DM Serif Display",serif;
+font-size: 50px;
+line-height: 1.3px; 
+letter-spacing: 0.22px;
+}
+.Desighn-challeng-description {
+    color:var(--main-text);
+line-height: 1.5px;
+letter-spacing: 0.22px;
+}
+.Design-challeng-link {
+    color:var(--main-text);
+font-size: 24px;
+line-height: 1.5px;
+letter-spacing: 0.22px;
+}
+.Desighn-challeng-title2 {
+    color:var(--main-text);
+line-height: 1.5px ;
+letter-spacing: 0.22px;
+
+}
+.Design-challeng-btn {
+    color: #FFF;
+font-size: 18px;
+line-height: 1.5px;
+letter-spacing: 0.72px;
+width: 263px;
+height: 71px;
+background-color:var(--main-accent);
+border-radius: 18px;
+border: 2px solid #292F36;
+background: #292F36;
+}
+.reviews-title {
+    color:var(--main-accent);
+text-align: center;
+font-family: "DM Serif Display", serif;
+font-size: 45px;
+line-height: 1.3px;
+letter-spacing: 0.22px;
+}
+.reviews-list-title {
+    color:var(--main-text);
+font-family: "DM Serif Display" serif;
+font-size: 25px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.reviews-list-text {
+    color:var(--main-text);
+font-size: 18px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.reviews-list-description {
+    color:var(--main-text);
+font-size: 20px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.our-furniture-info {
+    color:var(--main-text);
+text-align: center;
+font-family: "DM Serif Display",serif;
+font-size: 47px;
+line-height: 1.8px; 
+letter-spacing: 0.22px;
+}
+.our-furniture-info2 {
+    color:var(--main-text);
+    text-align: center;
+    line-height: 1.5px; 
+    letter-spacing: 0.22px;
+}
+.our-furniture-list-title {
+    color:var(--main-text);
+font-size: 20px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.our-furniture-list-description {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.statistic {
+    background-color: #F4F0EC;
+}
+.statistic-list-title {
+    color: #CDA274;
+text-align: center;
+font-family: "DM Serif Display", serif;
+font-size: 85px;
+line-height: 1.5px; 
+letter-spacing: 1.7px;
+}
+.statistic-list-description {
+    color:var(--main-text);
+text-align: center;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.our-blog-info {
+    color:var(--main-accent);
+text-align: center;
+font-family: "DM Serif Display", serif;
+font-size: 48px;
+line-height: 1.3px; 
+letter-spacing: 0.22px;
+}
+.our-blog-info2 {
+    color:var(--main-text);
+    text-align: center;
+    line-height: 1.5px; 
+    letter-spacing: 0.22px;
+}
+.our-blog-title {
+    color:var(--main-accent);
+font-family: "DM Serif Display", serif;
+font-size: 25px;
+line-height: 1.4px; 
+letter-spacing: 0.5px;
+}
+.our-blog-description {
+    color:var(--main-text);
+font-size: 16px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.interno-work {
+    background-color:var(--main-accent);
+}
+.interno-work-title {
+    color: #FFF;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-size: 50px;
+    line-height: 1.5px; 
+    letter-spacing: 0.22px;
+}
+.interno-work-text {
+    color: #FFF;
+text-align: center;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.button-interno-work {
+    color: #FFF;
+text-align: center;
+font-size: 18px;
+line-height: 27px; 
+letter-spacing: 0.22px;
+background-color: #CDA274;
+width: 241px;
+height: 71px;
+}
+.interno-firm-description {
+    color:var(--main-text);
+line-height: 1.5px;
+letter-spacing: 0.22px;
+}
+.pages-list-title2 {
+    color:var(--main-accent);
+    font-family: "DM Serif Display";
+    font-size: 25px;
+    line-height: 1.5px; 
+    letter-spacing: 0.22px;
+}
+.pages-list-title {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.explore-list-title2 {
+    color:var(--main-accent);
+font-family: "DM Serif Display",serif;
+font-size: 25px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.explore-list-title {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.contact-title {
+    color:var(--main-text);
+font-family: "DM Serif Display", serif;
+font-size: 25px;
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.contact-link {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+}
+.contact-mail {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+
+}
+.contact-tel {
+    color:var(--main-text);
+line-height: 1.5px; 
+letter-spacing: 0.22px;
+
+}
+.Copyright-info {
+    color:var(--main-text);
+text-align: center;
+line-height: 1.5px;
+letter-spacing: 0.22px;
+}
+.Copyright-hover {
+    color: #CDA274;
+text-align: center;
+letter-spacing: 0.22px;
+}
